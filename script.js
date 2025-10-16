@@ -1,5 +1,5 @@
 // Вставте сюди URL-адресу вашого веб-додатку Apps Script
-const API_URL = 'https://script.google.com/macros/s/AKfycbzktOE4vsr92MgYN3U8JxdU3QaNfN6Rlp5BdYmks9oHtFxfCNxPPcgiJl9C8cStxXZogw/exec'; 
+const API_URL = 'https://script.google.com/macros/s/AKfycbzEAB3rRM4yqjTRWvZEdhsNPaPvgOM-JEAQShZxnXvPIdO27Amwzbb2Gl-QF_1zFIdyBA/exec'; 
 
 const loader = document.getElementById('loader');
 const output = document.getElementById('output');
